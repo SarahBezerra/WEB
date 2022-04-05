@@ -1,7 +1,7 @@
 function Enemy({ name, img }) {
     return(
         <>
-        <p>My name is {name} </p>
+        <h1>My name is {name} </h1>
         <img src={img} />
         </>
     )
