@@ -6,9 +6,9 @@ function App() {
     return(
         <div>
             <World>
-                <Arena />
-                <Arena />
-                <Arena />
+                <Arena arena="Gotham I" />
+                <Arena arena="Gotham II" />
+                <Arena arena="Gotham III" />
             </World>
         </div>
     )
